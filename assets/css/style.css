@@ -17,6 +17,7 @@ body {
     place-items: center;
     background: url(../img/Desktop-background.svg);
     background-repeat: no-repeat;
+    background-position-x: center;
     background-color: #121214;
 }
 
