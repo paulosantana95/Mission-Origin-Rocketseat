@@ -15,6 +15,9 @@ body {
 body {
     display: grid;
     place-items: center;
+    background: url(../img/Desktop-background.svg);
+    background-repeat: no-repeat;
+    background-color: #121214;
 }
 
 main {
