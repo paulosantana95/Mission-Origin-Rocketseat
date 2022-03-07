@@ -12,6 +12,7 @@ Layout de uma aplicação onde as pessoas podem gerar seu crachá para participa
 
 - HTML
 - CSS
+- JavaScript
 
 
 # ✅ **Desafio**
