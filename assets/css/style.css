@@ -22,9 +22,16 @@ body {
 }
 
 main {
-    background: url(../img/background.svg);
-    width: 375px;
-    height: 812px;
+    background: url(../img/background.svg) no-repeat center;
+    width: 100vw;
+    min-height: 812px;
+    min-width: 100vw;
+}
+
+@media (min-width: 960px) {
+    main {
+        height: auto;
+    }
 }
 
 .container {
