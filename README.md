@@ -25,4 +25,6 @@ Neste desafio foi construido **Card ou Crachá**.
 
 - Foi aplicado e práticado o funcionamento de **box model**, **position absolute ou relative**, **z-index**, **grid** e **flex-box**.
 
+- No JavaScript foi criado uma funcionalidade de link interativo de acordo com a classe de cada botão e mudanças interativas a partir de informações da API do próprio Github.
+
 - Projeto espelho no <a href="https://www.figma.com/community/file/1031698737363668691">figma</a>.
