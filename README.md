@@ -4,7 +4,7 @@ Projeto desenvolvido na missão Origin do NLW Heat.
 
 Layout de uma aplicação onde as pessoas podem gerar seu crachá para participar do evento. É uma aplicação simples que visa ensinar os fundamentos da programação para quem está no início da jornada.
 
-<a href="https://paulosantana95.github.io/Mission-Origin-Rocketseat/"><img src="https://i.ibb.co/r0TDb5z/layout.png" alt="layout" border="0"></a>
+<a href="https://paulosantana95.github.io/Mission-Origin-Rocketseat/"><img src="https://ibb.co/3BNjVhb" alt="layout" border="0"></a>
 
 
 # 🚀 **Techs**
