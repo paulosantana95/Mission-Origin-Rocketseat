@@ -4,7 +4,7 @@ Projeto desenvolvido na missão Origin do NLW Heat.
 
 Layout de uma aplicação onde as pessoas podem gerar seu crachá para participar do evento. É uma aplicação simples que visa ensinar os fundamentos da programação para quem está no início da jornada.
 
-<a href="https://ibb.co/3BNjVhb"><img src="https://i.ibb.co/wMWP86q/screencapture-mission-origin-rocketseat-vercel-app-2022-03-16-20-56-56.png" alt="screencapture-mission-origin-rocketseat-vercel-app-2022-03-16-20-56-56" border="1"></a>
+<a href="https://ibb.co/3BNjVhb"><img src="https://i.ibb.co/wMWP86q/screencapture-mission-origin-rocketseat-vercel-app-2022-03-16-20-56-56.png" alt="screencapture-mission-origin-rocketseat-vercel-app-2022-03-16-20-56-56" border="5px"></a>
 
 
 # 🚀 **Techs**
